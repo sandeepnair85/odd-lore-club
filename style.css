@@ -11,3 +11,4 @@ h2{font-family:'Lilita One',sans-serif;font-weight:400;font-size:26px;color:var(
 a{color:var(--violet)}
 .btn{display:inline-block;background:var(--tang);color:var(--ink);padding:10px 20px;border-radius:999px;text-decoration:none;font-weight:800}
 footer{margin-top:48px;border-top:2px solid var(--ink);padding-top:12px;font-size:14px}
+.links{display:flex;flex-wrap:wrap;gap:10px}
